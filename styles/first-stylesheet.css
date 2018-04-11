@@ -1,0 +1,25 @@
+body {
+  background-color: lightyellow;
+}
+
+nav {
+  text-align: left;
+}
+
+p {
+  text-align: justify;
+}
+
+center {
+  color: palevioletred;
+}
+
+table {
+  width: 100%;
+  border: 1px;
+  color: solid black;
+}
+
+th {
+  background-color: lightgoldenrodyellow;
+}
